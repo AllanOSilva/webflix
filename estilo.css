@@ -16,6 +16,9 @@ h2{
     padding-top: 70px;
 }
 
+.nav-link{
+    font-weight: bold;
+}
 
 body{
     background-color: rgba(86, 167, 4, 0.568);
