@@ -42,6 +42,10 @@ header{
     height: 250px;
     display: block;
 }
+ .card{
+    margin-bottom: 8px;
+    background-color: rgb(61, 117, 4);;    
+ }
 
 #generos  nav{
     justify-content: center;
